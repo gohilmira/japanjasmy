@@ -1,0 +1,79 @@
+.bg-white {
+    background-color: #1C2833 !important;
+}
+.col-lg-6.pad {
+    padding-top: 80px;
+}
+.current-tokens {
+    background: #010101;
+}
+
+span.fa.fa-chevron-right {
+    color: #6C3483 !important;
+}
+.rotatecointech6 {
+    position: absolute;
+    top: 0%;
+    left: 10%;
+    margin: 0 0px 0 0px;
+    animation: rotatecointech6 1.5s ease infinite alternate, rotatecointech6 5s linear infinite alternate;
+    opacity: 1;
+    z-index: 3;
+    pointer-events: none;
+}
+.contract_address.animation.animated.fadeInUp {
+    text-align: center;
+}
+p.token-addres {
+    text-align: center;
+}
+.token_rtinfo.bg-white.border_right {
+    padding-bottom: 2px;
+}
+svg.w-6.h-6 {
+    width: 20px;
+    color: white;
+}
+svg {
+    overflow: hidden;
+    vertical-align: middle;
+}
+.dwn-btn {
+    padding-top: 20px;
+}
+p.token-addres {
+    border: solid;
+    border-radius: 100px;
+    padding-top: 20px;
+    width: 100%;
+    padding-bottom: 20px;
+}
+.iconp {
+    color: cornflowerblue !important;
+}
+a.btn-dwn {
+    max-width: 300px;
+}
+.meta {
+    align-items: center;
+    text-align: center;
+    padding-top: 25px;
+}
+@media only screen and (max-width: 767px) {
+    .dwn-btn {
+        padding-top: 70px;
+    }
+    .col-lg-4.cce1.wow.animated.fadeInUp.animated {
+        visibility: visible !important;
+    }
+    .tradingview-widget-container {
+        /* width: 100%; */
+        max-width: 100%;
+    }
+    .rotatecointech6 {
+        display: block;
+    }
+    img.rotatecointech6.round {
+        display: none;
+    }
+}

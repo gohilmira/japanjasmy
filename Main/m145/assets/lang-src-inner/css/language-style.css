@@ -1,0 +1,149 @@
+/*-----For language convertor-----*/
+/*.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-angle-down:before {
+    content: "\f107";
+}*/
+
+@media only screen and (max-width: 767px) {
+    #headerLanguages > .dropdown-menu {
+        position: absolute;
+        top: 32px !important;
+        right: -13px !important;
+    }
+
+    .dropdown-lang-converter.rounded-box {
+        padding: 7px 13px !important;
+    }
+
+    #headerLanguages .dropdown-menu > li > a.dropdown-item > .country-flag-name:hover.active {
+        color: #4776e6 !important;
+        background-color: #fff !important;
+    }
+
+    #headerLanguages .dropdown-menu > li > a.dropdown-item > .country-flag-name:hover {
+        color: #fff !important;
+        background-color: #3d3dce !important;
+    }
+}
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../fonts/fontawesome-webfont3e6e3e6e.eot?v=4.7.0');
+    src: url('../fonts/fontawesome-webfontd41dd41d.eot?#iefix&v=4.7.0') format('embedded-opentype'),
+         url('../fonts/fontawesome-webfont3e6e3e6e.woff2?v=4.7.0') format('woff2'), 
+         url('../fonts/fontawesome-webfont3e6e3e6e.woff?v=4.7.0') format('woff'), 
+         url('../fonts/fontawesome-webfont3e6e3e6e.ttf?v=4.7.0') format('truetype'),
+         url('../fonts/fontawesome-webfont3e6e3e6e.svg?v=4.7.0#fontawesomeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.dropdown-lang-converter.rounded-box {
+    margin-left: auto;
+    border-radius: 25px;
+    border: 1px solid #b5b2b2;
+    padding: 13px 20px;
+}
+
+#headerLanguages {
+    position: relative;
+}
+
+.select-country-lang {
+    display: flex;
+    line-height: 1;
+    align-items: center
+}
+
+    .select-country-lang::after {
+        font-family: 'FontAwesome';
+        content: "\f107";
+        font-size: 1.25rem;
+        margin-left: 0.35rem;
+    }
+    .select-country-lang > .select-flag-icon {
+        display: inline-flex
+    }
+
+        .select-country-lang > .select-flag-icon > img {
+            width: 20px;
+            height: 20px
+        }
+
+    .select-country-lang .select-lang-title {
+        margin-left: 0.5rem;
+        color: #ffff;
+    }
+
+#headerLanguages .dropdown-menu {
+    border-radius: 0.25rem;
+    margin: 0;
+    min-width: 10rem;
+    -webkit-box-shadow: 0 7px 13px 0 rgb(0 0 0 / 10%);
+    box-shadow: 0 7px 13px 0 rgb(0 0 0 / 10%);
+    background: #3d3dce;
+    color: #fff;
+}
+
+    #headerLanguages .dropdown-menu.bg-purple {
+        background: #3d3dce;
+        color: #fff;
+    }
+
+
+    #headerLanguages .dropdown-menu.show {
+        right: -20px;
+        top: 37px;
+        left: auto;
+        z-index: 10000;
+        display: block
+    }
+    #headerLanguages .dropdown-menu > li > a.dropdown-item{padding:0 !important}
+        #headerLanguages .dropdown-menu > li > a.dropdown-item > .country-flag-name {
+            color: #fff;
+            padding: 0.4rem 1rem 0.4rem 0.65rem;
+            line-height: 1;
+            font-size: 0.895rem;
+            font-weight: 500
+        }
+        #headerLanguages .dropdown-menu > li > a.dropdown-item > .country-flag-name.text-white {
+            color: #fff;
+        }
+
+
+
+        #headerLanguages .dropdown-menu > li > a.dropdown-item > .country-flag-name {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center
+        }
+
+            #headerLanguages .dropdown-menu > li > a.dropdown-item > .country-flag-name > .flag-icon > img {
+                width: 20px;
+                height: 20px
+            }
+
+
+            #headerLanguages .dropdown-menu > li > a.dropdown-item > .country-flag-name > .lang-title {
+                margin-left: 0.5rem;
+                line-height: 20px
+            }
+
+            #headerLanguages .dropdown-menu > li > a.dropdown-item > .country-flag-name:focus,
+            #headerLanguages .dropdown-menu > li > a.dropdown-item > .country-flag-name:hover,
+            #headerLanguages .dropdown-menu > li > a.dropdown-item > .country-flag-name.active{
+                color: #4776e6;
+                background-color: #fff;
+            }
+           
+
+
+
+
+/*-----For language convertor-----*/

@@ -1,0 +1,299 @@
+[28-Dec-2022 10:08:47 UTC] PHP Fatal error:  Uncaught TypeError: str_pad() expects parameter 1 to be string, bool given in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php:253
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php(253): str_pad(false, 64, '0', 0)
+#1 /home/eracomtest/public_html/sendcryp/api/vendor_info.php(99): IEXBase\TronAPI\TRC20Contract->balanceOf('', true)
+#2 /home/eracomtest/public_html/sendcryp/index.php(113): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php on line 253
+[28-Dec-2022 10:09:07 UTC] PHP Fatal error:  Uncaught TypeError: str_pad() expects parameter 1 to be string, bool given in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php:253
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php(253): str_pad(false, 64, '0', 0)
+#1 /home/eracomtest/public_html/sendcryp/api/vendor_info.php(99): IEXBase\TronAPI\TRC20Contract->balanceOf('', true)
+#2 /home/eracomtest/public_html/sendcryp/index.php(113): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php on line 253
+[28-Dec-2022 10:09:47 UTC] PHP Fatal error:  Uncaught TypeError: str_pad() expects parameter 1 to be string, bool given in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php:253
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php(253): str_pad(false, 64, '0', 0)
+#1 /home/eracomtest/public_html/sendcryp/api/vendor_info.php(99): IEXBase\TronAPI\TRC20Contract->balanceOf('', true)
+#2 /home/eracomtest/public_html/sendcryp/index.php(113): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php on line 253
+[28-Dec-2022 10:11:15 UTC] PHP Fatal error:  Uncaught TypeError: str_pad() expects parameter 1 to be string, bool given in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php:253
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php(253): str_pad(false, 64, '0', 0)
+#1 /home/eracomtest/public_html/sendcryp/api/vendor_info.php(99): IEXBase\TronAPI\TRC20Contract->balanceOf('', true)
+#2 /home/eracomtest/public_html/sendcryp/index.php(113): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php on line 253
+[28-Dec-2022 10:11:18 UTC] PHP Fatal error:  Uncaught TypeError: str_pad() expects parameter 1 to be string, bool given in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php:253
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php(253): str_pad(false, 64, '0', 0)
+#1 /home/eracomtest/public_html/sendcryp/api/vendor_info.php(99): IEXBase\TronAPI\TRC20Contract->balanceOf('', true)
+#2 /home/eracomtest/public_html/sendcryp/index.php(113): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php on line 253
+[28-Dec-2022 10:12:30 UTC] PHP Fatal error:  Uncaught TypeError: str_pad() expects parameter 1 to be string, bool given in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php:253
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php(253): str_pad(false, 64, '0', 0)
+#1 /home/eracomtest/public_html/sendcryp/api/vendor_info.php(99): IEXBase\TronAPI\TRC20Contract->balanceOf('', true)
+#2 /home/eracomtest/public_html/sendcryp/index.php(113): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php on line 253
+[28-Dec-2022 10:14:38 UTC] PHP Fatal error:  Uncaught TypeError: str_pad() expects parameter 1 to be string, bool given in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php:253
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php(253): str_pad(false, 64, '0', 0)
+#1 /home/eracomtest/public_html/sendcryp/api/vendor_info.php(99): IEXBase\TronAPI\TRC20Contract->balanceOf('', true)
+#2 /home/eracomtest/public_html/sendcryp/index.php(113): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php on line 253
+[28-Dec-2022 10:19:43 UTC] PHP Fatal error:  Uncaught TypeError: str_pad() expects parameter 1 to be string, bool given in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php:253
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php(253): str_pad(false, 64, '0', 0)
+#1 /home/eracomtest/public_html/sendcryp/api/test.php(100): IEXBase\TronAPI\TRC20Contract->balanceOf('', true)
+#2 /home/eracomtest/public_html/sendcryp/index.php(113): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php on line 253
+[28-Dec-2022 10:21:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method IEXBase\TronAPI\TRC20Contract::getBalance() in /home/eracomtest/public_html/sendcryp/api/test.php:100
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(113): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/test.php on line 100
+[28-Dec-2022 10:21:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method IEXBase\TronAPI\TRC20Contract::getBalance() in /home/eracomtest/public_html/sendcryp/api/test.php:100
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(113): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/test.php on line 100
+[28-Dec-2022 10:21:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method IEXBase\TronAPI\Tron::balanceOf() in /home/eracomtest/public_html/sendcryp/api/test.php:102
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(113): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/test.php on line 102
+[28-Dec-2022 10:21:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method IEXBase\TronAPI\Tron::balanceOf() in /home/eracomtest/public_html/sendcryp/api/test.php:102
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(113): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/test.php on line 102
+[28-Dec-2022 10:23:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method IEXBase\TronAPI\TRC20Contract::getBalance() in /home/eracomtest/public_html/sendcryp/api/test.php:96
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(113): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/test.php on line 96
+[28-Dec-2022 10:26:03 UTC] PHP Fatal error:  Uncaught TypeError: str_pad() expects parameter 1 to be string, bool given in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php:253
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php(253): str_pad(false, 64, '0', 0)
+#1 /home/eracomtest/public_html/sendcryp/api/test.php(96): IEXBase\TronAPI\TRC20Contract->balanceOf('', true)
+#2 /home/eracomtest/public_html/sendcryp/index.php(113): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor/iexbase/tron-api/src/TRC20Contract.php on line 253
+[03-Jan-2023 21:43:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(113): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42
+[03-Jan-2023 21:44:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(113): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42
+[12-Jan-2023 16:23:16 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function toHex() on array in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Formatters/IntegerFormatter.php:36
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contracts/Types/Uinteger.php(62): Web3\Formatters\IntegerFormatter::format('1.00000000')
+#1 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contracts/SolidityType.php(221): Web3\Contracts\Types\Uinteger->inputFormat('1.00000000', 'uint256')
+#2 [internal function]: Web3\Contracts\SolidityType->encode('1.00000000', 'uint256')
+#3 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contracts/Ethabi.php(176): call_user_func(Array, '1.00000000', 'uint256')
+#4 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php(626): Web3\Contracts\Ethabi->encodeParameters(Array, Array)
+#5 /home/eracomtest/public_html/sendcryp/api/transfer2.php(107): Web3\Contract->getData('transfer', '0x4CaD5908F3799...', '1.00000000')
+#6 /home/eracomtest/public_html/sendcry in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Formatters/IntegerFormatter.php on line 36
+[12-Jan-2023 16:44:05 Asia/Kolkata] PHP Warning:  bcmul(): bcmath function argument is not well-formed in /home/eracomtest/public_html/sendcryp/index.php on line 43
+[12-Jan-2023 16:44:15 Asia/Kolkata] PHP Warning:  bcmul(): bcmath function argument is not well-formed in /home/eracomtest/public_html/sendcryp/index.php on line 43
+[12-Jan-2023 16:46:19 Asia/Kolkata] PHP Warning:  bcmul(): bcmath function argument is not well-formed in /home/eracomtest/public_html/sendcryp/index.php on line 43
+[12-Jan-2023 16:46:42 Asia/Kolkata] PHP Warning:  bcmul(): bcmath function argument is not well-formed in /home/eracomtest/public_html/sendcryp/index.php on line 39
+[12-Jan-2023 16:46:46 Asia/Kolkata] PHP Warning:  bcmul(): bcmath function argument is not well-formed in /home/eracomtest/public_html/sendcryp/index.php on line 39
+[13-Jan-2023 12:11:19 Asia/Kolkata] PHP Fatal error:  Cannot redeclare bcdechex() (previously declared in /home/eracomtest/public_html/sendcryp/index.php:4) in /home/eracomtest/public_html/sendcryp/api/functions.php on line 22
+[23-Jan-2023 17:50:13 Asia/Kolkata] PHP Warning:  bcdiv(): bcmath function argument is not well-formed in /home/eracomtest/public_html/sendcryp/index.php on line 29
+[23-Jan-2023 17:50:19 Asia/Kolkata] PHP Warning:  bcdiv(): bcmath function argument is not well-formed in /home/eracomtest/public_html/sendcryp/index.php on line 29
+[29-Jan-2023 21:25:54 Asia/Kolkata] PHP Warning:  bcdiv(): bcmath function argument is not well-formed in /home/eracomtest/public_html/sendcryp/index.php on line 29
+[29-Jan-2023 21:25:55 Asia/Kolkata] PHP Warning:  bcdiv(): bcmath function argument is not well-formed in /home/eracomtest/public_html/sendcryp/index.php on line 29
+[29-Jan-2023 21:26:00 Asia/Kolkata] PHP Warning:  bcdiv(): bcmath function argument is not well-formed in /home/eracomtest/public_html/sendcryp/index.php on line 29
+[23-Feb-2023 14:37:41 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Please make sure address is valid. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php:328
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/transfer.php(113): Web3\Contract->at(' 0x571e4c214c55...')
+#1 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#2 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php on line 328
+[23-Feb-2023 14:39:58 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Please make sure address is valid. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php:328
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/transfer.php(113): Web3\Contract->at(' 0x571e4c214c55...')
+#1 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#2 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php on line 328
+[23-Feb-2023 14:41:09 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Please make sure address is valid. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php:328
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/transfer.php(113): Web3\Contract->at(' 0x571e4c214c55...')
+#1 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#2 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php on line 328
+[23-Feb-2023 14:42:17 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Please make sure address is valid. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php:328
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/transfer.php(113): Web3\Contract->at(' 0x571e4c214c55...')
+#1 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#2 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php on line 328
+[23-Feb-2023 14:44:31 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Please make sure address is valid. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php:328
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/transfer.php(113): Web3\Contract->at(' 0x571e4c214c55...')
+#1 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#2 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php on line 328
+[23-Feb-2023 14:45:07 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Please make sure address is valid. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php:328
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/transfer.php(113): Web3\Contract->at(' 0x571e4c214c55...')
+#1 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#2 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php on line 328
+[23-Feb-2023 14:46:05 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Please make sure address is valid. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php:328
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/transfer.php(113): Web3\Contract->at(' 0x571e4c214c55...')
+#1 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#2 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php on line 328
+[23-Feb-2023 16:23:04 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Please make sure address is valid. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php:328
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/transfer.php(113): Web3\Contract->at(' 0x571e4c214c55...')
+#1 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#2 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php on line 328
+[23-Feb-2023 16:23:46 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Please make sure address is valid. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php:328
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/api/transfer.php(113): Web3\Contract->at(' 0x571e4c214c55...')
+#1 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#2 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Contract.php on line 328
+[17-Mar-2023 10:40:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(120): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42
+[17-Mar-2023 10:40:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(120): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42
+[17-Mar-2023 11:05:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(120): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42
+[17-Mar-2023 11:36:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(120): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42
+[17-Mar-2023 11:53:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(120): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42
+[17-Mar-2023 13:31:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(120): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42
+[17-Mar-2023 13:31:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(120): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42
+[17-Mar-2023 13:35:01 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(120): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42
+[17-Mar-2023 14:39:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(120): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42
+[24-Mar-2023 18:17:39 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: Wrong type of eth_getBalance method argument 0. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php:125
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Eth.php(102): Web3\Methods\EthMethod->validate(Array)
+#1 /home/eracomtest/public_html/sendcryp/api/transfer.php(110): Web3\Eth->__call('getBalance', Array)
+#2 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php on line 125
+[24-Mar-2023 18:21:07 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: Wrong type of eth_getBalance method argument 0. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php:125
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Eth.php(102): Web3\Methods\EthMethod->validate(Array)
+#1 /home/eracomtest/public_html/sendcryp/api/transfer.php(110): Web3\Eth->__call('getBalance', Array)
+#2 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php on line 125
+[24-Mar-2023 18:22:20 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: Wrong type of eth_getBalance method argument 0. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php:125
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Eth.php(102): Web3\Methods\EthMethod->validate(Array)
+#1 /home/eracomtest/public_html/sendcryp/api/transfer.php(110): Web3\Eth->__call('getBalance', Array)
+#2 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php on line 125
+[25-Mar-2023 09:25:04 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: Wrong type of eth_getBalance method argument 0. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php:125
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Eth.php(102): Web3\Methods\EthMethod->validate(Array)
+#1 /home/eracomtest/public_html/sendcryp/api/transfer.php(110): Web3\Eth->__call('getBalance', Array)
+#2 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php on line 125
+[25-Mar-2023 09:31:40 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: Wrong type of eth_getBalance method argument 0. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php:125
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Eth.php(102): Web3\Methods\EthMethod->validate(Array)
+#1 /home/eracomtest/public_html/sendcryp/api/transfer.php(110): Web3\Eth->__call('getBalance', Array)
+#2 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php on line 125
+[25-Mar-2023 09:32:11 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: Wrong type of eth_getBalance method argument 0. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php:125
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Eth.php(102): Web3\Methods\EthMethod->validate(Array)
+#1 /home/eracomtest/public_html/sendcryp/api/transfer.php(110): Web3\Eth->__call('getBalance', Array)
+#2 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php on line 125
+[25-Mar-2023 09:32:44 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: Wrong type of eth_getBalance method argument 0. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php:125
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Eth.php(102): Web3\Methods\EthMethod->validate(Array)
+#1 /home/eracomtest/public_html/sendcryp/api/transfer.php(110): Web3\Eth->__call('getBalance', Array)
+#2 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php on line 125
+[25-Mar-2023 09:33:55 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: Wrong type of eth_getBalance method argument 0. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php:125
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Eth.php(102): Web3\Methods\EthMethod->validate(Array)
+#1 /home/eracomtest/public_html/sendcryp/api/transfer.php(110): Web3\Eth->__call('getBalance', Array)
+#2 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php on line 125
+[25-Mar-2023 09:34:01 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: Wrong type of eth_getBalance method argument 0. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php:125
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Eth.php(102): Web3\Methods\EthMethod->validate(Array)
+#1 /home/eracomtest/public_html/sendcryp/api/transfer.php(110): Web3\Eth->__call('getBalance', Array)
+#2 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php on line 125
+[25-Mar-2023 09:35:27 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: Wrong type of eth_getBalance method argument 0. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php:125
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Eth.php(102): Web3\Methods\EthMethod->validate(Array)
+#1 /home/eracomtest/public_html/sendcryp/api/transfer.php(110): Web3\Eth->__call('getBalance', Array)
+#2 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php on line 125
+[25-Mar-2023 14:50:49 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: Wrong type of eth_getBalance method argument 0. in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php:125
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Eth.php(102): Web3\Methods\EthMethod->validate(Array)
+#1 /home/eracomtest/public_html/sendcryp/api/transfer.php(110): Web3\Eth->__call('getBalance', Array)
+#2 /home/eracomtest/public_html/sendcryp/index.php(120): require('/home/eracomtes...')
+#3 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/lib/sc0vu/web3.php/src/Methods/EthMethod.php on line 125
+[13-Apr-2023 17:54:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'Web3\Web3' not found in /home/eracomtest/public_html/sendcryp/api/vendor_info.php:42
+Stack trace:
+#0 /home/eracomtest/public_html/sendcryp/index.php(120): require()
+#1 {main}
+  thrown in /home/eracomtest/public_html/sendcryp/api/vendor_info.php on line 42

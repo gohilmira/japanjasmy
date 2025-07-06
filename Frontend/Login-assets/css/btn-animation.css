@@ -1,0 +1,36 @@
+﻿.slide:hover,
+.slide:focus {
+    box-shadow: inset 12em 0 0 0 var(--hover);
+}
+.slide {
+    --color: white;
+    --hover: #111418;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    font-weight: 500;
+    padding: 0.8rem 2.6rem !important;
+    border: 1px solid transparent;
+}
+button {
+    color: var(--color);
+    transition: 0.5s;
+}
+    button:hover, button:focus {
+        border-color: #ff7a29;
+        color: #ff7a29;
+    }
+button {
+    background: linear-gradient(90deg, #ff7a29 0%, #dd5f13 100%);
+    /*border: 2px solid;*/
+    font: inherit;
+    line-height: 1.5;
+    margin: 0.5em;
+    padding: 1em 2em;
+}
+h1 {
+    font-weight: 400;
+}
+code {
+    color: #e4cb58;
+    font: inherit;
+}
